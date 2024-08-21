@@ -50,7 +50,7 @@
 
 ---
 
-### 2. Тестирование строки поиска на главной странице ozon.ru
+### 2. Чек-лист и тест-кейсы для строки поиска на главной странице ozon.ru
 
 ![Image alt](https://github.com/slvn19/Portfolio/blob/main/pv_ozon.ru.jpg)
 
