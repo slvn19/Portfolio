@@ -1,8 +1,12 @@
 # <a name="up" />Портфолио 
 
-Ниже приведены примеры  ...
+Ниже приведены примеры использования освоенных в ходе обучения инструментов и составления тестовой документации.
+Раздел в стадии редактрования.
 
-## <a name="test-design" /> Заголовок 1
+[Тестирование веб (чек-листы, тест-кейсы, баг-репорты)](#test-design)<br>
+[Тестирование API (Postman)](#api-testing)<br>
+
+## <a name="test-design" /> Тестирование веб (чек-листы, тест-кейсы, баг-репорты)
 
 ### 1. Чек-лист и баг-репорты для строки поиска сайта Vinyl.ru 
 
@@ -85,3 +89,21 @@
 **Тест-кейс 7**
 
 ![Image alt](https://github.com/slvn19/Portfolio/blob/main/tc7_ozon.ru.jpg)
+
+---
+
+## <a name="api-testing" /> Тестирование API (Postman)
+
+Данная коллекция представляет собой набор команд для тестового API (https://restful-booker.herokuapp.com/), имитирующего сервис бронирования отеля. В коллекции реализованы запись генерируемого запросом "Create auth token" токена и id последней созданной записи (запрос CreateBooking) в переменные коллекции и дальнейшее их применение. В запросах PUT, PATCH, DELET используется авторизация по ранее сгенерированному токену, сохраненному в переменных коллекции.
+
+Коллекция: https://github.com/slvn19/Portfolio/blob/main/Restful%20Booker.postman_collection.json
+
+**Список запросов**
+
+![Image alt](https://github.com/slvn19/Portfolio/blob/main/pm1.jpg)
+
+**Использование токена авторизации**
+
+![Image alt](https://github.com/slvn19/Portfolio/blob/main/pm2.jpg)
+![Image alt](https://github.com/slvn19/Portfolio/blob/main/pm3.jpg)
+![Image alt](https://github.com/slvn19/Portfolio/blob/main/pm4.jpg)
