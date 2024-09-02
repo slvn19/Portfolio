@@ -92,7 +92,7 @@
 
 ---
 
-### 3. Чек-лист и баг-репорты для окна параметров генерируемого изображения (простой цвет) сервиса Dummy images generator https://www.websiteplanet.com/ru/webtools/dummy-images-generator/
+### 3. Чек-лист и баг-репорты для окна параметров генерируемого изображения (простой цвет) сервиса Dummy images generator (https://www.websiteplanet.com/ru/webtools/dummy-images-generator/)
 
 ![Image alt](https://github.com/slvn19/Portfolio/blob/main/dig_pv.jpg)
 
@@ -100,6 +100,38 @@
 
 ![Image alt](https://github.com/slvn19/Portfolio/blob/main/dig_cl1.jpg)
 ![Image alt](https://github.com/slvn19/Portfolio/blob/main/dig_cl2.jpg)
+
+**Баг-репорт 1**
+
+![Image alt](https://github.com/slvn19/Portfolio/blob/16a9fcfe57c2e59b5aca5722970a3279e6acf0d6/dig_br1.jpg)
+
+**Баг-репорт 2**
+
+![Image alt](https://github.com/slvn19/Portfolio/blob/16a9fcfe57c2e59b5aca5722970a3279e6acf0d6/dig_br2.jpg)
+
+**Баг-репорт 3**
+
+![Image alt](https://github.com/slvn19/Portfolio/blob/16a9fcfe57c2e59b5aca5722970a3279e6acf0d6/dig_br3.jpg)
+
+**Баг-репорт 4**
+
+![Image alt](https://github.com/slvn19/Portfolio/blob/16a9fcfe57c2e59b5aca5722970a3279e6acf0d6/dig_br4.jpg)
+
+**Баг-репорт 5**
+
+![Image alt](https://github.com/slvn19/Portfolio/blob/16a9fcfe57c2e59b5aca5722970a3279e6acf0d6/dig_br5.jpg)
+
+**Баг-репорт 6**
+
+![Image alt](https://github.com/slvn19/Portfolio/blob/16a9fcfe57c2e59b5aca5722970a3279e6acf0d6/dig_br6.jpg)
+
+**Баг-репорт 7**
+
+![Image alt](https://github.com/slvn19/Portfolio/blob/16a9fcfe57c2e59b5aca5722970a3279e6acf0d6/dig_br7.jpg)
+
+**Баг-репорт 8**
+
+![Image alt](https://github.com/slvn19/Portfolio/blob/16a9fcfe57c2e59b5aca5722970a3279e6acf0d6/dig_br8.jpg)
 
 ---
 
