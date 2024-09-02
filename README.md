@@ -92,6 +92,17 @@
 
 ---
 
+### 3. Чек-лист и баг-репорты для окна параметров генерируемого изображения (простой цвет) сервиса Dummy images generator https://www.websiteplanet.com/ru/webtools/dummy-images-generator/
+
+![Image alt](https://github.com/slvn19/Portfolio/blob/main/dig_pv.jpg)
+
+**Чек-лист**
+
+![Image alt](https://github.com/slvn19/Portfolio/blob/main/dig_cl1.jpg)
+![Image alt](https://github.com/slvn19/Portfolio/blob/main/dig_cl2.jpg)
+
+---
+
 ## <a name="api-testing" /> Тестирование API (Postman)
 
 Данная коллекция представляет собой набор запросов для тестового API (https://restful-booker.herokuapp.com/), имитирующего сервис бронирования отеля. В коллекции реализованы запись генерируемого запросом "Create auth token" токена и id последней созданной записи (запрос CreateBooking) в переменные коллекции и дальнейшее их применение. В запросах PUT, PATCH, DELET используется авторизация по ранее сгенерированному токену, сохраненному в переменных коллекции.
