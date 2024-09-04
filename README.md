@@ -131,7 +131,7 @@
 
 **Баг-репорт 8**
 
-![Image alt](https://github.com/slvn19/Portfolio/blob/16a9fcfe57c2e59b5aca5722970a3279e6acf0d6/dig_br8.jpg)
+![Image alt](https://github.com/slvn19/Portfolio/blob/main/dig_br8.jpg)
 
 ---
 
